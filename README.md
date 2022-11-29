@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Genius Car Services
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Site [https://genius-car-services-56d6b.web.app/](https://genius-car-services-56d6b.web.app/).
 
 ## Available Scripts
 
